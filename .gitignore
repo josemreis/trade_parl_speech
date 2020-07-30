@@ -1,0 +1,8 @@
+*.7z
+*.zip
+*.gz
+*.tar.xz
+*.csv
+*.Rdata
+*.RData
+*.Rhistory
